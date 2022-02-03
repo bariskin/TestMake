@@ -15,7 +15,11 @@ void printHelp(void)
     printf (" git commit -m   commitText\n");
 
     printf(" git push\n");
-   }
+
+    printf(" git status\n");
+    
+    printf(" git status\n");   
+    }
 
 int main(int argc, char* argv[])
    {
